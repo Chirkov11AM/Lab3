@@ -1,6 +1,7 @@
+// suppress inspection "NonAsciiCharacters" for whole file
 = Лабораторная №3
 
-:toc: Задание
+:toc:
 
 == Задание
 ** Сделать бегущий огонь из 4 светодиодов, подключенных к портам C.5, C.8, C9, A.5
